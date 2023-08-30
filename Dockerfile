@@ -1,1 +1,1 @@
-From: Java : 17
+FROM openjdk:11
