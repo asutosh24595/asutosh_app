@@ -1,1 +1,1 @@
-From: Java : 17
+FROM: jdk:1.8
